@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:henninghall/react-native-date-picker.git"
+    "url": "git@github.com:AlexandrBol/react-native-date-picker.git"
   },
   "dependencies": {
     "moment": "^2.22.1"
